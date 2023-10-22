@@ -1,9 +1,6 @@
-**`Cookidoo Clone😁`**
+**`Cookidoo Clone`**
 
 Search recipes for thermomix 
-
-
-
 
 
 ---
